@@ -12,3 +12,7 @@
     color: black;
     opacity: 1;
 }
+
+.form-control {
+    color: #909090!important;
+}
