@@ -26,6 +26,11 @@ public class SpringBootDemoApplication {
         SpringApplication.run(SpringBootDemoApplication.class, args);
     }
 
+
+    public static void metodaCareNuFaceNimic(){
+        return;
+    }
+
     public static void altaMetodaCareNuFaceNimic(){
         return;
     }
