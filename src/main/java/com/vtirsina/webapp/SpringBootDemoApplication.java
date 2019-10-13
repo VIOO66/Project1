@@ -30,4 +30,8 @@ public class SpringBootDemoApplication {
     public static void metodaCareNuFaceNimic(){
         return;
     }
+
+    public static void altaMetodaCareNuFaceNimic(){
+        return;
+    }
 }
